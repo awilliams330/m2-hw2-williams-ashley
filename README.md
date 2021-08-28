@@ -2,7 +2,7 @@
 
 Issues: 
  
-I had a lot of trouble understanding how to make the site responsive at different widths. I got it to work in the screenshot I took, but it was only working at that particular device width. I understood that you use the classes to apply different stylings, but could not figure out the breakpoints, if I needed to make media queries to do those stylings, etc. I also couldn't figure out how to center the images within the columns without using my main.css page. 
+I had a lot of trouble understanding how to make the site responsive at tablet widths. I got it to work in the screenshot I took, but it was only working at that particular device width. I understood that you use the classes to apply different stylings, but could not figure out the breakpoints, if I needed to make media queries to do those stylings, etc. I also couldn't figure out how to center the images within the columns without using my main.css page. 
 
 Resources: 
  
